@@ -1,0 +1,8 @@
+.Content_main{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 3rem;
+}
+.container{
+    width: 35%;
+}

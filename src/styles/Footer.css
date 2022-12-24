@@ -1,0 +1,11 @@
+#main_container{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 11px;
+    padding: 3rem;
+    background-color: #cfcbcb;
+    color: grey;
+}
+#aboutus_container{
+    width: 33%;
+}
